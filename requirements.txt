@@ -1,0 +1,6 @@
+pip
+pyttsx3  --- pip install  pyttsx3
+wikipedia -- pip install wikipedia
+pyaudio-- pip install pyaudio
+webbrowser --inbuilt  module
+os --inbuilt  module

@@ -1,0 +1,5 @@
+This project is an outcome from 15 days online training on Python conducted by Khwopa College Of Engineering.
+This is a simple virtual assistant bulit using  pyttsx3 module.
+It can perform simple task like opening applications, websites from browser, simple chat , telling time , getting information from wikipedia.
+I have added only these feature , alot of more feature can be added as per the need.
+It simply works from the input given from the user which is converted into string then it gives output as it is assigned, for which i use  recognize google.
